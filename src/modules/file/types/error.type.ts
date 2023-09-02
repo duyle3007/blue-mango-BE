@@ -1,0 +1,4 @@
+export enum ErrorType {
+  UPLOAD_FILE_ERROR = 'UPLOAD_FILE_ERROR',
+  ID_NOT_FOUND = 'ID_NOT_FOUND',
+}
